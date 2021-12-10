@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100870018475",
+    "project_id": "alta-5a245",
+    "storage_bucket": "alta-5a245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100870018475:android:4d3451675a72ada7a8eeee",
+        "android_client_info": {
+          "package_name": "com.ericcheah.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100870018475-6aascrnghli7qclc32ev7kg75g5ucj3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kVl5EFVwZsXtiPASvqUjKraUxDHm0ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100870018475-6aascrnghli7qclc32ev7kg75g5ucj3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
